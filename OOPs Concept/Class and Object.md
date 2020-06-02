@@ -28,7 +28,7 @@ class className{   // Class Header
 Kotlin object is created in two steps, the first step is to create a reference and then create an object.
 
  ```
-var obj = Classname()
+var obj = className()
 
 ```
 Now, this is not the same as Java right? You would instantiate the object using the keyword New which is not used in Kotlin.
