@@ -27,7 +27,7 @@ class className{   // Class Header
 
 Kotlin object is created in two steps, the first step is to create a reference and then create an object.
 
-- ```
+ ```
 var obj = Classname()
 
 ```
